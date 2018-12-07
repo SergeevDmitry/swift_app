@@ -1,8 +1,6 @@
 # Quizzler
 Learn to make iOS Apps 📱 | Project Stub | (Swift 4.0/Xcode 9) - Quizzler App
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
-
 ## Quiz Text Strings
 
         // Creating a quiz item and appending it to the list
