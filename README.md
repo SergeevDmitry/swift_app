@@ -1,6 +1,5 @@
 # Quizzler
 Learn to make iOS Apps 📱 | Project Stub | (Swift 4.0/Xcode 9) - Quizzler App
-
 ## Quiz Text Strings
 
         // Creating a quiz item and appending it to the list
